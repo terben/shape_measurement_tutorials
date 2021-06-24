@@ -1,0 +1,20 @@
+name: shear_measurements
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - python=3.8
+  - matplotlib
+  - metadetect
+  - ipython
+  - joblib
+  - schwimmbad
+  - tqdm
+  - pyyaml
+  - des-sxdes
+  - ipykernel
+  - ngmix
+  - galsim
+  - meds
+  - fitsio
